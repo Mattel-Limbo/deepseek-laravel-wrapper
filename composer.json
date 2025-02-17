@@ -22,7 +22,6 @@
     "homepage": "https://github.com/mattel-limbo/deepseek-laravel-wrapper",
     "license": "MIT",
     "type": "library",
-    "version": "2.0.1",
     "authors": [
         {
             "name": "Wirandra Alaya",
