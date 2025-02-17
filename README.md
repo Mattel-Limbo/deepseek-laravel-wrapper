@@ -7,7 +7,7 @@ Laravel wrapper for **[Deepseek PHP client](https://github.com/deepseek-php/deep
 You can install the package via composer:
 
 ```bash
-composer require deepseek-php/deepseek-laravel
+composer require mattel-limbo/deepseek-laravel
 ```
 
 ### Publishing Configuration File
